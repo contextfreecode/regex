@@ -1,4 +1,5 @@
 [package]
+# TODO Run cargo init again for default setup.
 name = "boolerr"
 version = "0.1.0"
 authors = ["Tom <tom@contextfree.info>"]
